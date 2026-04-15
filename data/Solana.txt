@@ -1,0 +1,18 @@
+What is Solana?
+Solana is a high-performance network that enables fast, secure, and affordable digital transactions. It powers thousands of applications ranging from payments and games to digital art and financial services. This chapter introduces the fundamentals of how Solana works and what makes it unique.
+
+What is a Wallet?
+A wallet is your primary tool for using Solana. It stores your digital assets, lets you connect to applications, and enables you to send and receive tokens. This chapter will help you understand wallets and set up your first one safely.
+
+Understanding Solana Transaction Fees
+Transaction fees are an important part of any digital network. On Solana, fees are designed to be predictable and affordable, typically costing fractions of a cent. This chapter explains how fees work and why they matter for accessibility.
+Sending and Receiving SOL
+Being able to send and receive SOL is your first practical skill on Solana. SOL is the native token of the Solana network, used for transactions, staking, and interacting with applications. In this chapter, you'll learn how transfers work and practice making your first transaction.
+What is Staking?
+Staking is how you can earn rewards by helping secure the Solana network. When you stake your SOL, you're contributing to the network's security while earning approximately 5-7% annual rewards. This chapter explains how staking works and how to get started.
+What is Staking?
+Staking is how you can earn rewards by helping secure the Solana network. When you stake your SOL, you're contributing to the network's security while earning approximately 5-7% annual rewards. This chapter explains how staking works and how to get started.
+Introduction to Solana Tokens
+Tokens are digital assets built on Solana. Like how the US dollar is the native currency of the United States, SOL is Solana's native currency. Tokens represent all other assets - from stablecoins like USDC to project tokens and NFTs. This chapter explains how tokens work and what you can do with them.
+
+NFTs (Non-Fungible Tokens) are unique digital assets that represent ownership of specific items. Unlike regular tokens where each unit is identical and interchangeable, each NFT is one-of-a-kind. This chapter explains how NFTs work on Solana and their various uses beyond digital art.Decentralized Finance (DeFi) refers to financial services built on Solana. These applications let you trade, lend, borrow, and earn yield without traditional intermediaries. This chapter introduces the main types of DeFi services available on Solana and how they work.Solana applications represent a new generation of internet services where you maintain control of your assets, identity, and data. These applications span far beyond financial tools, encompassing gaming, social media, creative platforms, and more. What unites them is a shared philosophy: users should own their digital lives.Security is crucial when using Solana. Since you control your own assets directly, you're responsible for keeping them safe. This guide covers the essential security practices every user should know, from protecting your wallet to avoiding common scams.

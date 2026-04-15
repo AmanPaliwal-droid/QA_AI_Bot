@@ -1,0 +1,144 @@
+AMAN PALIWAL — TRADER | BUILDER | STRATEGY THINKER | SYSTEM DESIGN ENTHUSIAST
+
+PROFILE OVERVIEW
+
+Aman Paliwal is a 24-year-old independent trader and technology enthusiast with a strong interest in financial markets, algorithmic systems, and automation-driven trading strategies. His work revolves around understanding how modern financial systems behave, how market inefficiencies emerge, and how technology can be used to design structured trading approaches.
+
+He comes from a Computer Science and Engineering (CSE) background and has developed a deep interest in applying computational thinking to financial markets. Over time, his focus has shifted toward building systematic trading logic, exploring automation, and studying both discretionary and algorithmic trading methods.
+
+His learning journey spans across multiple domains including crypto markets, traditional trading concepts, trading psychology, system design, and execution platforms such as MT4 and MT5. He continuously explores how data, algorithms, and infrastructure can be combined to create more structured and repeatable trading outcomes.
+
+---
+
+TRADING INTEREST AND MARKET FOCUS
+
+Aman’s primary interest lies in understanding high-volatility financial instruments, especially in the cryptocurrency space. He studies assets such as Bitcoin, Ethereum, and Solana, focusing on how liquidity, volatility cycles, and market sentiment influence price behavior.
+
+Instead of relying purely on intuition, his approach emphasizes structure—observing charts, identifying repeating patterns, and evaluating market reactions to macro and micro events.
+
+He is particularly interested in:
+- Market structure and price action behavior
+- Liquidity zones and institutional movement concepts
+- Risk-to-reward optimization
+- Systematic entry and exit frameworks
+- Signal generation and automation logic
+
+His approach is centered around building consistency through rules rather than emotional decision-making.
+
+---
+
+ALGORITHMIC AND AUTOMATION INTERESTS
+
+A significant part of Aman’s exploration is focused on algorithmic trading and automation systems. He is deeply interested in how trading strategies can be converted into executable logic using code and how automation can remove emotional bias from decision-making.
+
+He studies and experiments with:
+- Trading bots and automated execution systems
+- Strategy backtesting methodologies
+- Signal generation frameworks
+- Data-driven decision models
+- Execution optimization techniques
+
+Platforms such as MT4 and MT5 are part of his exploration, along with crypto trading APIs and scripting-based automation approaches.
+
+He is especially interested in how trading systems can be structured like software products, where logic, inputs, outputs, and error handling are clearly defined.
+
+---
+
+TECHNOLOGY AND SYSTEM THINKING
+
+With a background in Computer Science and Engineering, Aman approaches trading from a systems perspective. He views markets as dynamic systems where data flows continuously, and decisions must be made based on structured logic rather than emotional reaction.
+
+His thinking aligns with:
+- System design principles
+- Data structures and algorithmic efficiency
+- Automation pipelines
+- Event-driven architectures
+- Real-time data processing concepts
+
+This allows him to bridge the gap between software engineering and financial trading.
+
+---
+
+HIGH-FREQUENCY TRADING INTEREST
+
+Aman has an academic and conceptual interest in high-frequency trading (HFT) systems. While not necessarily operating institutional-level infrastructure, he studies how speed, latency, execution efficiency, and infrastructure design affect trading outcomes.
+
+He is curious about:
+- Order book dynamics
+- Execution latency
+- Market microstructure
+- Liquidity fragmentation
+- Automated execution logic
+
+This interest helps him understand how large-scale trading systems function in real-world financial environments.
+
+---
+
+CRYPTO MARKET SPECIALIZATION
+
+Crypto markets remain a central area of focus due to their volatility, accessibility, and 24/7 structure. Aman analyzes crypto assets such as Bitcoin, Ethereum, and Solana with attention to:
+- Trend cycles
+- Volatility expansion and contraction phases
+- Sentiment-driven price movement
+- Liquidity shifts across exchanges
+- Retail vs institutional behavior patterns
+
+He also studies how narratives and macroeconomic events influence digital asset markets.
+
+---
+
+RISK AND DISCIPLINE FRAMEWORK
+
+Aman emphasizes the importance of risk management and structured decision-making in trading. He understands that long-term sustainability in trading depends more on risk control than on individual trade outcomes.
+
+His learning includes:
+- Position sizing strategies
+- Capital preservation principles
+- Drawdown management
+- Probabilistic thinking
+- Trade consistency frameworks
+
+He approaches trading as a long-term skill-building discipline rather than short-term speculation.
+
+---
+
+LEARNING APPROACH
+
+Aman follows a continuous improvement model where learning is driven by:
+- Market observation
+- Backtesting ideas
+- Reviewing trade outcomes
+- Studying system behavior
+- Iterative improvement of strategies
+
+He believes that trading systems evolve over time and require constant refinement based on data and experience.
+
+---
+
+VISION
+
+His long-term vision is to build intelligent trading systems that integrate:
+- Algorithmic decision-making
+- Automated execution
+- Data-driven strategy validation
+- Scalable system design
+
+He aims to combine his engineering background with market experience to develop structured, repeatable trading frameworks that reduce emotional bias and improve consistency.
+
+---
+
+PERSONAL PHILOSOPHY
+
+Aman’s approach is grounded in discipline, patience, and structured thinking. He views markets as complex adaptive systems where survival depends on adaptability and risk control rather than prediction.
+
+He believes that:
+- Consistency is more important than occasional high performance
+- Systems outperform intuition over time
+- Risk management defines longevity in trading
+- Continuous learning is essential in evolving markets
+
+---
+
+CONCLUSION
+
+Aman Paliwal represents a blend of technical curiosity and market exploration, combining engineering thinking with financial market analysis. His focus lies in building systems, understanding structure, and continuously improving his approach to trading through data, logic, and disciplined execution.

@@ -1,0 +1,12 @@
+# Core RAG pipeline
+openai==1.30.5
+faiss-cpu==1.13.2
+numpy==1.26.4
+python-dotenv==1.0.1
+
+# Document loaders
+pdfplumber==0.11.0
+python-docx==1.1.2
+
+# Optional web UI
+streamlit==1.35.0
